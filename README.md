@@ -5,6 +5,6 @@
   
   <a href="http://www.github.com/thevacs"><img src="https://activity-graph.herokuapp.com/graph?username=thevacs&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
   
-  <!--START_SECTION:readme-info-->
-  <!--END_SECTION:readme-info-->
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </p>
