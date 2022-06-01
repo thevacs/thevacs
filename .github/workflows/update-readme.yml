@@ -17,3 +17,6 @@ jobs:
           SHOW_PROJECTS: "False"
           Timezone: America/Caracas
           SHOW_EDITORS: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_SHORT_INFO : "False"
+          SHOW_LOC_CHART: "False"
