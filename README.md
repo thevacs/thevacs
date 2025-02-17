@@ -8,7 +8,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C333%20hrs%2015%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.3%20million%20lines%20of%20code-blue)
 
@@ -39,13 +41,13 @@ Sunday                   7060 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               7 hrs 36 mins       █████████████████████░░░░   83.79 % 
-PHP                      1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+TypeScript               7 hrs 19 mins       █████████████████████░░░░   83.70 % 
+PHP                      1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 16/02/2025 00:32:10 UTC
+ Last Updated on 17/02/2025 00:32:39 UTC
 <!--END_SECTION:waka-->
