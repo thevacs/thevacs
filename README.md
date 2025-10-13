@@ -8,9 +8,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C677%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C676%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.0%20million%20lines%20of%20code-blue)
 
@@ -41,13 +41,13 @@ Sunday                   6134 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-Dart                     5 hrs 45 mins       █████████████████░░░░░░░░   66.32 % 
-TypeScript               2 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   26.47 % 
-YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-XML                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-Gradle Kotlin DSL        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+TypeScript               2 hrs 17 mins       ███████████████░░░░░░░░░░   61.38 % 
+Dart                     1 hr 19 mins        █████████░░░░░░░░░░░░░░░░   35.56 % 
+Gradle Kotlin DSL        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 
 
- Last Updated on 12/10/2025 01:50:43 UTC
+ Last Updated on 13/10/2025 01:51:16 UTC
 <!--END_SECTION:waka-->
