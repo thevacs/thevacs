@@ -8,7 +8,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C708%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C707%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,9 +41,13 @@ Sunday                   6027 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               11 mins             █████████████████████████   100.00 % 
+TypeScript               26 mins             ███████████████████░░░░░░   74.48 % 
+Bash                     8 mins              ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 
 
- Last Updated on 13/11/2025 00:37:08 UTC
+ Last Updated on 14/11/2025 00:33:50 UTC
 <!--END_SECTION:waka-->
