@@ -10,7 +10,7 @@
 [![committers.top badge](https://user-badge.committers.top/venezuela_private/thevacs.svg)](https://user-badge.committers.top/venezuela_private/thevacs)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C170%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C172%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
@@ -43,13 +43,13 @@ Sunday                   4875 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               3 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   36.25 % 
-Other                    2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   26.26 % 
-JSON                     2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
-Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-SQL                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+TypeScript               4 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   34.57 % 
+Other                    3 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+JSON                     2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 ```
 
 
- Last Updated on 13/05/2026 03:46:59 UTC
+ Last Updated on 14/05/2026 03:45:47 UTC
 <!--END_SECTION:waka-->
