@@ -10,46 +10,10 @@
 [![committers.top badge](https://user-badge.committers.top/venezuela_private/thevacs.svg)](https://user-badge.committers.top/venezuela_private/thevacs)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C172%20hrs%2046%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.73%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                11606 commits       ███████░░░░░░░░░░░░░░░░░░   26.90 % 
-🌆 Daytime                14332 commits       ████████░░░░░░░░░░░░░░░░░   33.22 % 
-🌃 Evening                12237 commits       ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-🌙 Night                  4973 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   4599 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Tuesday                  7131 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Wednesday                5584 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Thursday                 8408 commits        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-Friday                   5062 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Saturday                 7489 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Sunday                   4875 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Caracas
-
-💬 Programming Languages: 
-TypeScript               4 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   34.57 % 
-Other                    3 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   26.93 % 
-JSON                     2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
-Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-```
-
-
- Last Updated on 14/05/2026 03:45:47 UTC
+ Last Updated on 15/05/2026 03:49:29 UTC
 <!--END_SECTION:waka-->
