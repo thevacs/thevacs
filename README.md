@@ -16,40 +16,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.91%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                12221 commits       ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-🌆 Daytime                15584 commits       ████████░░░░░░░░░░░░░░░░░   33.06 % 
-🌃 Evening                13763 commits       ███████░░░░░░░░░░░░░░░░░░   29.20 % 
-🌙 Night                  5566 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   4881 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Tuesday                  7441 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Wednesday                6060 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Thursday                 9083 commits        █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-Friday                   5653 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Saturday                 8523 commits        █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-Sunday                   5493 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Caracas
-
-💬 Programming Languages: 
-TypeScript               17 hrs 24 mins      █████████████░░░░░░░░░░░░   51.74 % 
-Markdown                 6 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-Other                    3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Dart                     2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-JSON                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-```
-
-
- Last Updated on 15/06/2026 01:17:57 UTC
+ Last Updated on 16/06/2026 01:21:42 UTC
 <!--END_SECTION:waka-->
