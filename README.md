@@ -10,10 +10,6 @@
 [![committers.top badge](https://user-badge.committers.top/venezuela_private/thevacs.svg)](https://user-badge.committers.top/venezuela_private/thevacs)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C301%20hrs%2022%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-262%20hrs%207%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.85%20million%20lines%20of%20code-blue?style=flat)
@@ -55,5 +51,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 28/07/2026 00:49:23 UTC
+ Last Updated on 29/07/2026 00:47:32 UTC
 <!--END_SECTION:waka-->
