@@ -22,3 +22,4 @@ jobs:
           SHOW_OS : "False"
           SHOW_LANGUAGE: "True"
           SHOW_LANGUAGE_PER_REPO : "False"
+          SHOW_AI_CODING: "False"
